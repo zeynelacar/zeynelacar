@@ -1,6 +1,9 @@
 ## Hi there 👋
 * I am Zeynel
-* You are in my GitHub Profile. If you are here accidentally glad we meet.
+* You are in my GitHub Profile. If you are here accidentally, glad we met.
+* For those of whom looking for an job related issue -> [My Linkedin](https://www.linkedin.com/in/zeynel-acar/) 
+* Read some of my tech related and non-tech articles -> [My Blog](https://medium.com/@zacarzeynel)
+* If you don't want to be here, and don't know what you are looking for -> [It was good to see you](https://www.google.com.tr/?hl=tr)
 
 
 <!--
